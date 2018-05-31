@@ -1,0 +1,73 @@
+HTML {
+	BACKGROUND-IMAGE: url(../Images/lo_bg.gif); BACKGROUND-COLOR: #d2dce5; MARGIN: 0px auto; FONT-FAMILY: ËÎÌו, Verdana, Arial, Helvetica; HEIGHT: 100%; COLOR: #000000; FONT-SIZE: 12px
+}
+BODY {
+	BACKGROUND-IMAGE: url(../Images/lo_bg.gif); BACKGROUND-COLOR: #d2dce5; MARGIN: 0px auto; FONT-FAMILY: ËÎÌו, Verdana, Arial, Helvetica; HEIGHT: 100%; COLOR: #000000; FONT-SIZE: 12px
+}
+P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+A:link {
+	COLOR: #014f8a; FONT-SIZE: 12px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #014f8a; FONT-SIZE: 12px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+/*Download by http://www.codefans.net*/
+A:hover {
+	COLOR: #ff9900; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+A:active {
+	COLOR: #3d3525; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.lo-main {
+	Z-INDEX: 2; BORDER-BOTTOM: #7991a7 0px solid; POSITION: relative; BORDER-LEFT: #7991a7 0px solid; BACKGROUND-COLOR: #ffffff; MARGIN: auto; WIDTH: 590px; HEIGHT: 300px; BORDER-TOP: #7991a7 0px solid; BORDER-RIGHT: #7991a7 0px solid
+}
+.lo-top {
+	MARGIN: 0px auto; HEIGHT: 15%
+}
+.lo-box {
+	TEXT-ALIGN: center; MARGIN: 0px auto; WIDTH: 100%
+}
+.lo-black {
+	Z-INDEX: 1; POSITION: relative; BACKGROUND-COLOR: #939ea9; MARGIN: -294px auto auto; WIDTH: 590px; HEIGHT: 300px; LEFT: 6px
+}
+#lo-ul {
+	LIST-STYLE-TYPE: none; MARGIN: 0px auto 0px -40px; WIDTH: 100%
+}
+#lo-ul LI {
+	TEXT-ALIGN: left; LIST-STYLE-TYPE: none; MARGIN: 0px auto; DISPLAY: inline; FLOAT: left
+}
+.warning {
+	LINE-HEIGHT: 16px; MARGIN-TOP: 20px; MARGIN-BOTTOM: 10px; HEIGHT: 16px; COLOR: red; MARGIN-LEFT: 50px
+}
+.warning IMG {
+	VERTICAL-ALIGN: middle
+}
+.submit {
+	BORDER-BOTTOM: #999999 1px solid; BORDER-LEFT: #cccccc 1px solid; WIDTH: 59px; BACKGROUND: url(../Images/submit.gif) #eeeeee no-repeat 1px 1px; HEIGHT: 24px; COLOR: #666666; FONT-SIZE: 12px; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #999999 1px solid
+}
+.lo-form {
+	LINE-HEIGHT: 35px; MARGIN-LEFT: 65px
+}
+.lo-sub {
+	LINE-HEIGHT: 35px; MARGIN-LEFT: 275px
+}
+.lo_admin {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; LINE-HEIGHT: 18px; PADDING-LEFT: 20px; FONT-FAMILY: verdana, tahoma, sans-serif; BACKGROUND: #ffffff; HEIGHT: 18px; COLOR: #000000; MARGIN-LEFT: 6px; FONT-SIZE: 12px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+.lo_pass {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; LINE-HEIGHT: 18px; PADDING-LEFT: 20px; FONT-FAMILY: verdana, tahoma, sans-serif; BACKGROUND: #ffffff; HEIGHT: 18px; COLOR: #000000; MARGIN-LEFT: 6px; FONT-SIZE: 12px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+.lo_admin {
+	BACKGROUND: url(../Images/username.gif) no-repeat 2px 2px
+}
+.lo_pass {
+	BACKGROUND: url(../Images/password.gif) no-repeat 2px 2px
+}
+.copyright {
+	POSITION: absolute; LINE-HEIGHT: 40px; HEIGHT: 40px; MARGIN-LEFT: -170px; LEFT: 50%
+}
+.vcode {
+	MARGIN-LEFT: 20px; CURSOR: hand
+}

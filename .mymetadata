@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="cpxsxt"
+  id="myeclipse.1388772778515"
+  context-root="/cpxsxt"
+  j2ee-spec="5.0"
+  archive="cpxsxt.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

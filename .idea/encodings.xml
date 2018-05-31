@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GB2312">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/action/UserAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/checiAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/action/gonggaoAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/action/lianjieAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/liuyanAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/yudingAction.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
